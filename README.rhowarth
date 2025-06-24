@@ -1,0 +1,8 @@
+https://github.com/rolfhowarth/TwelveMonkeys
+
+This forked repository follows haraldk's main branch but includes an Ant file and all the batik libraries
+to compile TwelveMonkeys into a single "fat" jar file twelvemonkeys-all.jar as I loathe and detest Maven and 
+the explosion of separate jar files that produces!
+
+Rolf Howarth
+June 2025
